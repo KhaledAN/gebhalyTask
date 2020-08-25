@@ -1,0 +1,22 @@
+.jumbotron {
+  background-image: url(https://mobirise.com/bootstrap-template/assets/images/macbook-926425-1920-1920x1279.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100% 60vh;
+  height: 60vh;
+  position: relative;
+}
+.da {
+  position: absolute;
+  top: 30%;
+  left: 12.5%;
+  color: #000;
+}
+.bg {
+  background-color: #65767d;
+  opacity: 80%;
+  height: 60vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+}
